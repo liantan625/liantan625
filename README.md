@@ -1,4 +1,4 @@
-# Hi there, I'm a CS Student at UM! 👋
+# Hi there, I'm a Final year Information Systems Student at UM! 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=liantan_625&label=Profile%20Views&color=0e75b6&style=flat" alt="liantan_625" />
@@ -47,5 +47,6 @@
 
 ### 🤝🏻 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-li-an-476654249/
+)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liantan10625@gmail.com)
