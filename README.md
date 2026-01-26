@@ -1,8 +1,4 @@
-# Hi there, I'm a Final year Information Systems Student at UM! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=liantan_625&label=Profile%20Views&color=0e75b6&style=flat" alt="liantan_625" />
-</p>
+# Hi there, Li An here! 👋
 
 ---
 
