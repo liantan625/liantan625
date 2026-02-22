@@ -7,12 +7,12 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 
 - 🎓 Final Year **Computer Science (Information Systems)** student at **Universiti Malaya** (🇲🇾).
-- 🙇🏻‍♂️ Incoming **Developer Intern** at a VPN company (Feb 2026 - Sept 2026).
+- 🙇🏻‍♂️ **Frontend Developer Intern** at Infinity Data Tech Sdn Bhd.
 - 💡 Passionate about **Data Engineering**, **Self-Hosting**, and **IoT**.
 - 💻 Currently building **DuitU** (React Native/Firebase), a finance app for retirees.
-- 🛠️ Working with **ClickHouse**, **Apache Kafka**, and **PostHog** for data pipelines.
+- 🛠️ Working with **ClickHouse**, **Apache Kafka**, **Apache Spark **, and **Apache airflow **for data pipelines.
 - ⚾ I play **baseball** and enjoy **Curry Pork Rice**.
-- 🎶 Huge fan of **NewJeans** and **gamified running**.
+- 🎶 Huge fan of **NewJeans** and **Pikmin Blooom**.
 
 <br/>
 
