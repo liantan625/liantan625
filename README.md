@@ -10,7 +10,7 @@
 - 🙇🏻‍♂️ **Frontend Developer Intern** at Infinity Data Tech Sdn Bhd.
 - 💡 Passionate about **Data Engineering**, **Self-Hosting**, and **IoT**.
 - 💻 Currently building **DuitU** (React Native/Firebase), a finance app for retirees.
-- 🛠️ Working with **ClickHouse**, **Apache Kafka**, **Apache Spark **, and **Apache airflow **for data pipelines.
+- 🛠️ Working with **ClickHouse**, **Apache Kafka**, **Apache Spark**, and **Apache Airflow**for data pipelines.
 - ⚾ I play **baseball** and enjoy **Curry Pork Rice**.
 - 🎶 Huge fan of **NewJeans** and **Pikmin Blooom**.
 
