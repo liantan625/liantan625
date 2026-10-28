@@ -49,8 +49,3 @@
 <br/>
 ![OrbStack](https://img.shields.io/badge/OrbStack-1200E4?style=for-the-badge&logo=orbstack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-### 🤝🏻 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-li-an-476654249/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liantan10625@gmail.com)
